@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internshala_assigment/static/css/main.24a92e51.css",
+    "main.js": "/internshala_assigment/static/js/main.1a7a5c13.js",
+    "static/js/787.03e199e3.chunk.js": "/internshala_assigment/static/js/787.03e199e3.chunk.js",
+    "index.html": "/internshala_assigment/index.html",
+    "main.24a92e51.css.map": "/internshala_assigment/static/css/main.24a92e51.css.map",
+    "main.1a7a5c13.js.map": "/internshala_assigment/static/js/main.1a7a5c13.js.map",
+    "787.03e199e3.chunk.js.map": "/internshala_assigment/static/js/787.03e199e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a92e51.css",
+    "static/js/main.1a7a5c13.js"
+  ]
+}
